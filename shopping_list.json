@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Arroz",
+        "price": 3.45,
+        "note": "Guanabara - R$3.45\nPrezunic - R$4.50"
+    },
+    {
+        "name": "Feijão",
+        "price": 4.0,
+        "note": "Feijão Copa - R$4,00 - Guanabara"
+    },
+    {
+        "name": "Macarrão",
+        "price": 3.5,
+        "note": "Macarrão - R$3.50 - Guanabara"
+    }
+]
